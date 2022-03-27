@@ -1,4 +1,7 @@
 # Wire-Color
+
+https://vimeo.com/686336032
+
 A speech-generating device (SGD) producing a matching voice output of wire colors through visual detection.
 
 This repository includes:
@@ -7,3 +10,5 @@ This repository includes:
   3. lustra.py - wired "lustra" validation mode algorithm
 
 Created by Eliad Perez and Afik Levi.
+
+https://vimeo.com/686336032
